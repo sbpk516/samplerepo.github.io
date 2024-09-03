@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/drum-machine/static/css/main.197a759b.css",
-    "main.js": "/drum-machine/static/js/main.1159f7ef.js",
-    "static/js/919.f92563a4.chunk.js": "/drum-machine/static/js/919.f92563a4.chunk.js",
-    "index.html": "/drum-machine/index.html",
-    "main.197a759b.css.map": "/drum-machine/static/css/main.197a759b.css.map",
-    "main.1159f7ef.js.map": "/drum-machine/static/js/main.1159f7ef.js.map",
-    "919.f92563a4.chunk.js.map": "/drum-machine/static/js/919.f92563a4.chunk.js.map"
+    "main.css": "/samplerepo.github.io/static/css/main.197a759b.css",
+    "main.js": "/samplerepo.github.io/static/js/main.42437115.js",
+    "static/js/919.f92563a4.chunk.js": "/samplerepo.github.io/static/js/919.f92563a4.chunk.js",
+    "index.html": "/samplerepo.github.io/index.html",
+    "main.197a759b.css.map": "/samplerepo.github.io/static/css/main.197a759b.css.map",
+    "main.42437115.js.map": "/samplerepo.github.io/static/js/main.42437115.js.map",
+    "919.f92563a4.chunk.js.map": "/samplerepo.github.io/static/js/919.f92563a4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.197a759b.css",
-    "static/js/main.1159f7ef.js"
+    "static/js/main.42437115.js"
   ]
 }

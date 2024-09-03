@@ -15,7 +15,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     {/* <MyComponent  />
-    <p>Hello World</p>
+    <p>Hello Worlds</p>
     <Greeting />
     <ShoppingCart quantity={100000} /> */}
     {/* <RandomQuoteMachine />; */}
